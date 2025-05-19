@@ -10,7 +10,7 @@ Welcome to the code base and resource hub for the NASA Ocean AI Workshop 2025 Ha
 - **Agenda and Information**: Access the master Google Sheet pinned in the `#workshop2025` Slack channel for the agenda, key links, and essential details.
 - **Useful Links**: Explore the "Bookmarks" folder in the Google Sheet for additional resources.
 
-## Enter the Realm, Become a Knight
+## The Hacker's Game - Enter the Realm, Become a Knight
 
 Embark on a noble quest to prepare for the NASA Ocean AI Workshop 2025 Hackathon! This guide leads you through essential steps to join the community and uncover vital resources. Each step earns **1 point**—collect all **5 points** to be knighted and ready for the workshop!
 
