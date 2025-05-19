@@ -174,10 +174,10 @@ Every knight plays a vital role in the quest. Volunteer to lead if your tools ar
 - **Bard of Chronicles (Reporter)**: The storyteller who documents the battalion’s journey, capturing progress, insights, and victories.
 - **Watcher of the Waves (Spectator)**: The observant ally who provides fresh perspectives, cheers the team, and offers support from the sidelines.
 
-**Earn 1 point** for your battalion after defining the problem
-**Earn 1 point** for outlining the ML architecture
-**Earn 1 point** for assigning roles
-**Earn 1 point** for starting a shared document outlining the problem, dataset and model design
+- **Earn 1 point** for your battalion after defining the problem
+- **Earn 1 point** for outlining the ML architecture
+- **Earn 1 point** for assigning roles
+- **Earn 1 point** for starting a shared document outlining the problem, dataset and model design
 
 ### Day Two: Forge Your Weapons (Tuesday, May 20th)
 
